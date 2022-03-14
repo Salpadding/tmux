@@ -7,5 +7,5 @@ mkdir -p ~/.config
 pushd ~/.config
 git clone https://github.com/Salpadding/tmux
 popd
-ln -s ~/.config/.tmux.conf .
+ln -s ~/.config/tmux/.tmux.conf .
 ```
